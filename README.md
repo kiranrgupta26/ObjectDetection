@@ -10,6 +10,9 @@ In this model ,I have detected wheat heads from outdoor images of wheat plants, 
 - If Successful, researchers can accurately estimate the density and size of the wheat heads in different varieties.
 - With improved detection farmers can better assess their crops.
 
+# Requirements
+- PyTorch (An open source deep learning platform)
+
 # Language Used:
 Python
 
