@@ -13,10 +13,11 @@ In this model ,I have detected wheat heads from outdoor images of wheat plants, 
 # Language Used:
 Python
 
+# Method Used
+- Convolutional Neural Network
+- YOLO loss
+
 # Research Papers
 You Only Look Once: Unified, Real-Time Object Detection.
 
 Link - https://arxiv.org/abs/1506.02640
-
-# License
-&copy;KiranGupta
