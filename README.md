@@ -11,7 +11,7 @@ In this model ,I have detected wheat heads from outdoor images of wheat plants, 
 - With improved detection farmers can better assess their crops.
 
 # Requirements
-- PyTorch (An open source deep learning platform)
+- Tensorflow (An open source deep learning platform)
 
 # Language Used:
 Python
