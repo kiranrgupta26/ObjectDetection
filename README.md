@@ -5,10 +5,17 @@ In this model ,I have detected wheat heads from outdoor images of wheat plants, 
 <img src="logo/wheatheadimage.jpg" width=500 />
 </p>
 
-# Motivation
-- Model developed for wheat phenotyping need to be able to generalize between environments.
-- If Successful, researchers can accurately estimate the density and size of the wheat heads in different varieties.
-- With improved detection farmers can better assess their crops.
+# Action/Result
+- Performed careful analysis of wheat heads grown in different varieties, planting densities, patterns, and field conditions to estimate the density and size of wheat heads.
+- Researchers can accurately estimate the density and size of the wheat heads in different varieties.
+- With improved wheat head detection, farmers can better assess their crops.
+- Developed a model using CNN which efficiently creates a bounding box around a wheat head given an image of a wheat field in any geographical conditions 
+
+# Visual Results
+
+<p align="center">
+<img src="logo/wheatheadimage.jpg" width=500 />
+</p>
 
 # Requirements
 - Tensorflow (An open source deep learning platform)
