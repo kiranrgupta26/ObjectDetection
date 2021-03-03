@@ -14,7 +14,7 @@ In this model ,I have detected wheat heads from outdoor images of wheat plants, 
 # Visual Results
 
 <p align="center">
-<img src="logo/wheatheadimage.jpg" width=500 />
+<img src="logo/results.PNG" width=500 />
 </p>
 
 # Requirements
